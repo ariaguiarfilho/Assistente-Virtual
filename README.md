@@ -61,7 +61,7 @@ Além disto é bom ter um editor para trabalhar com o código como [VSCode](http
 No terminal, clone o projeto: 
 
 ```
-git clone https://github.com/React-Bootcamp-WoMarkersCode/certificate-generator
+git clone https://github.com/ariaguiarfilho/Assistente-Virtual.git
 ```
 Execute: python3 assistente.py
 
