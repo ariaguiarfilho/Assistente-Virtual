@@ -70,10 +70,13 @@ Execute: python3 assistente.py
 ## Casos de Uso
 
 Ao iniciar a aplicação será solicitao ao usuário que preencha onde está o arquivo TXT para ser lido e onde será salvo o documento gerado, após esse procedimento o sistema solicita que o usuário escolha uma ação via comando de voz. 
+
 Ao escolher **Gerar Documento** o sistema deve capturar o áudio do usuário e ao falar a palavra **CONCLUIR** será gerado um documento com o áudio capturado.
+
 Ao escolher **Navegar** o sistema deve solicitar ao usuário via comando de voz qual o termo que deseja pesquisar, o sistema deverá listar uma relação de sistes relacionados ao tema escolhido.
+
 Ao escolher **Leitura** o sistema deverá ler um arquivo **TXT** e gerar o áudio do texto.
-Explique com mais detalhes como a sua aplicação poderia ser utilizada. O uso de **gifs** aqui seria bem interessante. 
+
 Ao escolher **Fechar** o sistema apresenta uma mensagem que a aplicação será encerrada o sistema é fechado.
 
 ## Linguagens, dependencias e libs utilizadas :books:
