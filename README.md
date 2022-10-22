@@ -66,7 +66,6 @@ git clone https://github.com/ariaguiarfilho/Assistente-Virtual.git
 Execute: python3 assistente.py
 
 
-## Como rodar os testes
 
 ## Casos de Uso
 
